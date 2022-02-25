@@ -14,7 +14,7 @@ cp -r .zshrc ~/
 cp -r .p10k.zsh ~/
 cp -r .zshrc.pre-oh-my-zsh ~/
 cp -r .oh-my-zsh ~/
-cp -r ./config/neofetch ~/.config/neofetch
+cp -r ./config/neofetch/* ~/.config/neofetch
 
 ```
 
